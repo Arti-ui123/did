@@ -323,6 +323,12 @@ button.search-bar:hover .tooltips,
 
     border-radius: 2px;
 }
+.demo-notice {
+    text-align: center;
+    color: #606060;
+    font-size: 12px;
+    margin: 20px 0;
+}
 
 
 /* =========================
