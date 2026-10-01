@@ -32,6 +32,7 @@
     display: flex;
     align-items: center;
     flex-shrink: 0;
+    height:40px;
 }
 
 .hamburger-menu {
@@ -510,7 +511,7 @@ button.search-bar:hover .tooltips,
     .youtube-menu {
   
     height: 15PX;
-    margin-left: -10px;
+    margin-left: -5px;
 }
 
 .youtube-icon {
