@@ -495,3 +495,28 @@ button.search-bar:hover .tooltips,
         width: 40px;
     }
 }
+  @media (max-width: 450px) {
+    /* .search-r {
+        width: 120%;
+    } */
+        .rit-section {
+        width: 124px;
+    }
+    .mid-section {
+        margin-left: 3px;
+        margin-right: -8px;
+      
+    }
+    .youtube-menu {
+  
+    height: 15PX;
+    margin-left: -10px;
+}
+
+.youtube-icon {
+        margin-left: 10px;
+    }
+/* .icons{
+    margin-left:-32px ;
+} */
+}
