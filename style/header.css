@@ -479,13 +479,13 @@ button.search-bar:hover .tooltips,
         gap: 5px;
     }
 
-    .youtube-apps {
+    /* .youtube-apps {
         display: none;
     }
 
     .youtube-icon {
         display: none;
-    }
+    } */
 
     .search-r {
         font-size: 13px;
