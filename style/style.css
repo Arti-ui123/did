@@ -193,7 +193,7 @@ p {
 
     .video-grid {
         grid-template-columns: 1fr;
-
+         margin-left: 70px;
         row-gap: 30px;
     }
 
